@@ -1,0 +1,56 @@
+body {
+	background-color: lavender; 
+} 
+
+#editor, #creator {
+	font-family: Arial;
+	color: skyBlue;
+	display: inline;
+	margin: 10px 30px;
+	
+	
+}
+
+#header {
+	background-color: skyBlue;
+	padding: 30px;
+	width: 600px;
+	border-radius: 30px;
+	margin: 0 auto; 
+	text-align: center;
+}
+
+.names {
+	border: thin solid black; 
+	width: 650px;
+	padding: 10px; 
+	margin: 20px auto; 
+	text-align: center;
+	background-color: white;
+	margin-top: 50px;
+}
+
+p {
+	padding: 0px 200px; 
+	font-size: 18px;
+} 
+
+.text {
+	margin: 45px 10px;
+}
+	
+
+#picture {
+	margin-left: 150px; 
+}
+
+
+#description {
+	padding: 20px; 
+	width: 300px; 
+	height: 410px; 
+	float: right;
+	margin-right: 150px;
+	background-color: aliceBlue;
+	line-height: 150%;
+}
