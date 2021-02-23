@@ -9,7 +9,7 @@ body {
 
 #editor, #creator {
 	font-family: Arial;
-	color: skyBlue;
+	color: black;
 	display: inline;
 	margin: 10px 30px;
 }
@@ -24,12 +24,12 @@ body {
 }
 
 .names {
-	border: thin solid black; 
+	border: medium solid skyBlue; 
 	width: 650px;
 	padding: 10px; 
 	margin: 20px auto; 
 	text-align: center;
-	background-color: white;
+	background-color: aliceBlue;
 	margin-top: 50px;
 }
 
@@ -46,16 +46,20 @@ p {
 	
 
 #picture {
-	margin: 10px 100px; 
+	margin: 10px 0px; 
+	margin-left: 150px;
+	width: 700px;
+	margin-right: 50px;
 }
 
 
 #description {
 	padding: 20px; 
-	width: 300px; 
-	height: 410px; 
+	width: 415px; 
+	height: 350px; 
 	float: right;
-	margin: 25px 100px;
+	margin: 50px 0px;
+	margin-right: 150px;
 	background-color: aliceBlue;
 }
 
